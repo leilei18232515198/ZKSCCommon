@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "ZKSCCommon"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "公共依赖库"
   spec.description  = "无数据占位图简介"
   spec.homepage     = "https://github.com/leilei18232515198/ZKSCCommon"
