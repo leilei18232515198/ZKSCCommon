@@ -1,8 +1,8 @@
 Pod::Spec.new do |spec|
   spec.name         = "ZKSCCommon"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.2"
   spec.summary      = "公共依赖库"
-  spec.description  = "无数据占位图简介"
+  spec.description  = "公共库文件"
   spec.homepage     = "https://github.com/leilei18232515198/ZKSCCommon"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.author             = { "leilei18232515198" => "“598090063@qq.com”" }
